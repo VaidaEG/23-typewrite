@@ -12,6 +12,7 @@ body {
         height: 100vh;
         background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/port.jpg.JPG');
         background-size: cover;
+        background-position: center;
     }
         .text {
             margin-top: 40vh;
@@ -26,7 +27,7 @@ body {
             position: absolute;
             right: -5px;
             width: 1px;
-            height: 4vh;
+            height: 38px;
             border-right: 2px solid #FFF;
             animation: blink 0.5s infinite ease;
         }
